@@ -1,5 +1,6 @@
 <?php
 
+
 /*
  * PHP QR Code encoder
  *
